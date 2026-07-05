@@ -1,2 +1,2 @@
 # LaserVentControl
-Arduin sketch for the laser ventilation Controller
+Arduino sketch for the laser ventilation Controller
